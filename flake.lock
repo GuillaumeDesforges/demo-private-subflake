@@ -1,0 +1,22 @@
+{
+  "nodes": {
+    "private": {
+      "locked": {
+        "narHash": "sha256-HdYC6ce8df22FxtqUHWJRilETr8KGn/WxPNPRJHr8SI=",
+        "path": "./private-content",
+        "type": "path"
+      },
+      "original": {
+        "path": "./private-content",
+        "type": "path"
+      }
+    },
+    "root": {
+      "inputs": {
+        "private": "private"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
